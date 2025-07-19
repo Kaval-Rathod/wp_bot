@@ -1,0 +1,17 @@
+you can see sending histry here
+
+Date: 19/7/2025
+Time: 14:14
+Phone Number: +917984219838
+Message: Hello from Windows App! app
+--------------------
+Date: 19/7/2025
+Time: 14:15
+Phone Number: +917984219838
+Message: Your message here
+--------------------
+Date: 19/7/2025
+Time: 14:20
+Phone Number: +917984219838
+Message: hello from kaval
+--------------------
