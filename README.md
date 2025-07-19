@@ -31,6 +31,8 @@ python api.py
 The server will start on `http://localhost:5000`
 cmd command
 curl -X GET http://localhost:5000/check-sender
+-try message
+   curl -X POST http://localhost:5000/send-whatsapp -H "Content-Type: application/json" -d "{\"phone_number\": \"+917984219838\", \"message\": \"Your message here\"}"
 
 ### Test the bot directly:
 ```bash
