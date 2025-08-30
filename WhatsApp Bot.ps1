@@ -3,7 +3,7 @@ Write-Host "Starting WhatsApp Bot App..." -ForegroundColor Green
 Write-Host ""
 
 # Change to the project directory where the Python files are located
-$projectPath = "C:\kiz\vs_projects\bot"
+$projectPath = "c:\kiz\vs_projects\wp_bot"
 Set-Location $projectPath
 
 Write-Host "Current directory: $projectPath" -ForegroundColor Cyan

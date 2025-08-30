@@ -4,7 +4,7 @@ echo Starting WhatsApp Bot App...
 echo.
 
 REM Change to the project directory where the Python files are located
-cd /d "C:\kiz\vs_projects\bot"
+cd /d "c:\kiz\vs_projects\wp_bot"
 
 REM Check if virtual environment exists
 if exist "venv\Scripts\activate.bat" (
